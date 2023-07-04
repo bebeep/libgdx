@@ -1,3 +1,5 @@
+一个跨平台游戏框架
+
 ![logo](libgdx_logo.svg)
 
 [![GitHub Actions build status](https://img.shields.io/github/workflow/status/libgdx/libgdx/Build%20and%20Publish/master?label=GitHub%20Actions)](https://github.com/libgdx/libgdx/actions?query=workflow%3A%22Build+and+Publish%22)
